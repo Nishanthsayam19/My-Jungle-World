@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Jungle World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="overlay">
+        <h1>🦁 Welcome to My Jungle World 🐘</h1>
+
+        <div class="animals">
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=300" alt="Lion">
+                <p>Lion</p>
+            </div>
+
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=300" alt="Tiger">
+                <p>Tiger</p>
+            </div>
+
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1552410260-0fd9b577afa6?w=300" alt="Elephant">
+                <p>Elephant</p>
+            </div>
+
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=300" alt="Giraffe">
+                <p>Giraffe</p>
+            </div>
+
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1549366021-9f761d450615?w=300" alt="Zebra">
+                <p>Zebra</p>
+            </div>
+
+            <div class="animal">
+                <img src="https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?w=300" alt="Monkey">
+                <p>Monkey</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
